@@ -4,15 +4,6 @@ A comprehensive collection of Jupyter Notebooks exploring **Seaborn** — a Pyth
 
 ---
 
-## 🖼️ Sample Visualizations
-
-| | |
-|---|---|
-| ![Bar Plot](screenshots/bar.png) | ![Heatmap](screenshots/heatmap.png) |
-| ![Pair Plot](screenshots/pairplot.png) | ![Violin Plot](screenshots/violin.png) |
-
----
-
 ## 📁 Project Structure
 ```
 Seaborn-Exercise/
